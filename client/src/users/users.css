@@ -1,0 +1,50 @@
+.left-wid30-mr5 {
+  text-align: left;
+  width: 80%;
+  margin: 5%;
+}
+
+.wid95-m3 {
+  width: 95%;
+  margin: 3%;
+}
+
+.right-wid90-m3 {
+  text-align: right;
+  width: 90%;
+  margin: 3%;
+}
+
+.wid90-m3 {
+  width: 90%;
+  margin: 3%;
+}
+
+.min-height120px {
+  min-height: 120px;
+}
+
+.width300px {
+  width: 300px;
+}
+
+.min-height120px {
+  min-height: 120px;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.border-basic {
+  border-radius: 5px;
+  padding: 1%;
+}

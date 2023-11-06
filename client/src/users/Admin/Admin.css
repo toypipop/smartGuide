@@ -1,0 +1,25 @@
+.wid90-m3 {
+  width: 90%;
+  margin: 3%;
+}
+
+.right {
+  text-align: right;
+}
+
+.border-basic {
+  border-radius: 5px;
+  padding: 1%;
+}
+
+.min-height-120 {
+  min-height: 120px;
+}
+
+.width300 {
+  width: 300px;
+}
+
+.left {
+  text-align: left;
+}
